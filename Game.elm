@@ -735,10 +735,10 @@ level6_image t = [
                  
                         
 level7 = { image = level7_image
-         , optionA = "Wall-E"
-         , optionB = "Eve"
-         , optionC = "Buzz"
-         , optionD = "Burn-E"
+         , optionA = "Peter Pan"
+         , optionB = "Pinocchio"
+         , optionC = "Prince Charming"
+         , optionD = "Robinhood"
          , answer = B
          
          }
